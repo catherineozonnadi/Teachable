@@ -4,7 +4,7 @@ Task 2 Git/GitHub
 # Explain version control.
 1.Version control is a systematic approach to tracking and managing changes to files over time, particularly in collaborative projects. It allows multiple contributors to work on a project concurrently, maintaining a history of modifications. This method helps in managing different versions of the code or documents and provides tools for tasks such as branching, merging, conflict resolution, and history tracking. Popular version control systems include Git and SVN. In essence, version control systems play a crucial role in ensuring the integrity, collaboration, and effective management of software development projects.
 
-# oExplain difference between git and github.
+# Explain difference between git and github.
 Git is the version control system itself, managing the history and changes of project locally, and enables collaboration among developers.
 
 GitHub, on the other hand, is a platform built around, It provides hosting for Git repositories, offering a web-based interface and collaborative features to enhance the development workflow, making it easier for teams to work together on projects.
